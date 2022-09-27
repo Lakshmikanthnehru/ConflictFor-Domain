@@ -9,4 +9,8 @@ public class Github1 {
 		System.out.println("modify");
 		
 	}
+	
+	private void m2() {
+		System.out.println("3");
+	}
 }
